@@ -1,6 +1,7 @@
-streamlit>=1.30
-pandas==1.5.2
-numpy==1.22.3
-scikit-learn==1.2.2
-xgboost==1.7.4
-tqdm==4.65.0
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+tqdm
+ 
